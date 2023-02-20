@@ -1,9 +1,4 @@
-spring:
-  application:
-    name: CONFIGsd
-
-eureka:
-  instance:
+eureka:  instance:
     prefer-ip-address: true
   client:
     fetch-registry: true
